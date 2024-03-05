@@ -88,6 +88,7 @@ CONFIG_DEFAULT_iptables=y
 CONFIG_DEFAULT_kmod-8139cp=y
 CONFIG_DEFAULT_kmod-8139too=y
 CONFIG_DEFAULT_kmod-ac97=y
+CONFIG_DEFAULT_kmod-ice=y
 CONFIG_DEFAULT_kmod-amazon-ena=y
 CONFIG_DEFAULT_kmod-amd-xgbe=y
 CONFIG_DEFAULT_kmod-ath10k=y
